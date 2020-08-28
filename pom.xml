@@ -97,7 +97,7 @@
     <dependencies>
 
         <!--=============================================================================================-->
-        <!--Depedencies for cucumber and Junit-->
+        <!--Dependencies for cucumber and Junit-->
         <!--=============================================================================================-->
         <dependency>
             <groupId>info.cukes</groupId>
